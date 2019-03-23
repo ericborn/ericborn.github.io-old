@@ -1,5 +1,5 @@
 - name: File Sorter
-  link: github.com/ericborn
+  #link: github.com/ericborn
   github: ericborn/FileSort
   quote: >
     Fun project learning some different packages in Python I had never used before.
@@ -7,8 +7,8 @@
     At work I was presented with a huge number of loose files that were a part of an online database export, which need to be sorted into folders according to the staff member they belong to.
     I tackled the problem by writing a script in Python to read from the CSV file which contained all of the user and file data. The script created over 1000 file directories and moved 16,000+ files into the appropriate directories based upon the user they belonged to.
     
-- name: File Sorter
-  link: github.com/ericborn/showrate
+- name: Show Rate
+  #link: github.com/ericborn/showrate
   github: ericborn/showrate
   quote: >
     Data study on various factors that influence a patient not showing for a doctor's appointment.
