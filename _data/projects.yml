@@ -1,7 +1,16 @@
-- name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+- name: File Sorter
+  link: github.com/ericborn
+  github: ericborn/FileSort
   quote: >
     This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    At work I was presented with a huge number of loose files that were a part of an online database export, which need to be sorted into folders according to the staff member they belong to.
+    I tackled the problem by writing a script in Python to read from the CSV file which contained all of the user and file data. The script created over 1000 file directories and moved 16,000+ files into the appropriate directories based upon the user they belonged to.
+    
+- name: File Sorter
+  link: github.com/ericborn/showrate
+  github: ericborn/showrate
+  quote: >
+    Data study on various factors that influence a patient not showing for a doctor's appointment.
+  description: | # this will include new lines to allow paragraphs
+    We have a relatively high no-show rate, so I wanted to put together a data study to attempt to identify what factors a patient may have that indicate whether they will show to a doctor's appointment or not.
