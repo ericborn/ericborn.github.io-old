@@ -12,10 +12,8 @@
   #quote: >
    #Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    I started out working on hardware and network infrastructure, virtualization and network administrator tasks, but was quickly promoted to manage the team that is responsible for the organizations application and database support. 
-    
-    A year later I took on business intelligence and reporting, overseeing both internal employees as well as two external consulting groups.
-    
+    I started out working on hardware and network infrastructure, virtualization and network administrator tasks, but was quickly promoted to manage the team that is responsible for the organizations application and database support. <br />
+    A year later I took on business intelligence and reporting, overseeing both internal employees as well as two external consulting groups.<br />
     Currently I'm still overseeing those teams as well as leading the companies technology strategy, exploring new software to continue to expand the business and keep it at the cutting edge.
 
 - company: Sony Online Entertainment
