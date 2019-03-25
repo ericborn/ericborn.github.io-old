@@ -4,7 +4,7 @@
   quote: >
     Project inspired by beer and poker.
   description: | # this will include new lines to allow paragraphs
-    While I was at a brewery the world series of poker was on tv. Each time a hand was dealt or when cards were turned over, the screen showed the likelyhood each of the players had in winning the hand. I figured this would be pretty easy to write and a fun project to do while learning more about object oriented programming in Python.
+    While I was at a brewery the world series of poker was on TV. Each time a hand was dealt or when cards were turned over, the screen showed the likelihood each of the players had in winning the hand. I figured this would be pretty easy to write and a fun project to do while learning more about object oriented programming in Python.
 
 - name: File Sorter
   #link: github.com/ericborn
