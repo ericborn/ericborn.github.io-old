@@ -14,7 +14,7 @@
   description: | # this will include new lines to allow paragraphs
     I started out working on hardware and network infrastructure, virtualization and network administrator tasks, but was quickly promoted to manage the team that is responsible for the organizations application and database support. <br />
     <br />A year later I took on business intelligence and reporting, overseeing both internal employees as well as two external consulting groups.<br />
-    <br />Currently I'm still overseeing those teams as well as leading the companies technology strategy, exploring new software to continue to expand the business and keep it at the cutting edge.
+    <br />Currently I'm still overseeing those teams as well as leading the company's technology strategy, exploring new software to continue to expand the business and keep it at the cutting edge.
 
 - company: Sony Online Entertainment
   #
@@ -23,7 +23,7 @@
   #quote: >
    #
   description: | # this will include new lines to allow paragraphs
-    During my time at Sony Online Entertainment I worked on multiple AAA game titles providing rigirous testing and bug reporting to the development team. This was a fun environment to work in but was also extremely long hours.
+    During my time at Sony Online Entertainment I worked on multiple AAA game titles providing rigorous testing and bug reporting to the development team. This was a fun environment to work in but was also extremely long hours.
 
 - company: US Army
   #link:
