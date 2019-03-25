@@ -1,5 +1,5 @@
 - company: Planned Parenthood of the Pacific Southwest
-  #link: Link to company (optional)
+  #link:
   jobs:
     - title: Director of Business Systems and Innovation
       dates: May 2018 - Present
@@ -12,14 +12,23 @@
   #quote: >
    #Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    I worked on everything from hardware infrastructure, virtualization and network administrator tasks, to application support, database management, custom development, business intelligence and reporting.
-    Currently leading the companies technology strategy, application support and development teams.
+    I started out working on hardware and network infrastructure, virtualization and network administrator tasks, but was quickly promoted to manage the team that is responsible for the organizations application and database support. A year later I took on business intelligence and reporting, overseeing both internal employees as well as two external consulting groups.
+    Currently I'm still overseeing those teams as well as leading the companies technology strategy, exploring new software to continue to expand the business and keep it at the cutting edge.
+
+- company: Sony Online Entertainment
+  #
+  job_title: QA Analyst
+  dates: July 2012 - February 2013
+  #quote: >
+   #
+  description: | # this will include new lines to allow paragraphs
+    During my time at Sony Online Entertainment I worked on multiple AAA game titles providing rigirous testing and bug reporting to the development team. This was a fun environment to work in but was also extremely long hours.
 
 - company: US Army
-  #link: boringcompany.com
+  #link:
   job_title: Network Administrator
   dates: June 2004 - June 2010
   #quote: >
-   #Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+   #
   description: | # this will include new lines to allow paragraphs
-    Engineered and maintained various local and wide area voice and data networks with unprecedented performance on both foreign and domestic soil.
+    While enlisted in the US Army I served a tour of duty in Iraq where I helped to convert existing buildings into offices by wiring them for network connectivity. I also worked in a network operations center monitoring network security and operations while providing verbal and written assistance to end-users.
