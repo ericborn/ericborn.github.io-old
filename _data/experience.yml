@@ -1,8 +1,16 @@
+- company: Freelance
+  #link:
+  jobs:
+    - title: Data Scientist
+      dates: April 2019 - Present
+  description: | # this will include new lines to allow paragraphs
+    Utilizing my data science skills to solve complex problems in medical quality and business efficiency.
+
 - company: Planned Parenthood
   #link:
   jobs:
     - title: Director of Business Systems and Innovation
-      dates: May 2018 - Present
+      dates: May 2018 - April 2019
     - title: Manager of Information Systems
       dates: November 2016 - May 2018
     - title: Health Systems Manager
@@ -23,7 +31,7 @@
   #quote: >
    #
   description: | # this will include new lines to allow paragraphs
-    During my time at Sony Online Entertainment I worked on multiple AAA game titles providing rigorous testing and bug reporting to the development team. This was a fun environment to work in but was also extremely long hours.
+    During my time at Sony Online Entertainment I worked on multiple AAA game titles, providing rigorous testing and bug reporting to the development team.
 
 - company: US Army
   #link:
@@ -32,4 +40,4 @@
   #quote: >
    #
   description: | # this will include new lines to allow paragraphs
-    While enlisted in the US Army I served a tour of duty in Iraq where I helped to convert existing buildings into offices by wiring them for network connectivity. I also worked in a network operations center monitoring network security and operations while providing verbal and written assistance to end-users.
+    While enlisted in the US Army I served a tour of duty in Iraq where I worked in a network operations center providing voice and data to the Baghdad area.
