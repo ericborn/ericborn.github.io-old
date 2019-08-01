@@ -24,9 +24,9 @@ linkedin_username: borneric
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Eric and I'm an aspiring data scientist currently studying at Boston University. I've been managing a team of developers and analysts for the past five years creating cool tools and helping the business run more efficiently through data driven decision making. 
+  Hi, my name's Eric and I'm a data scientist. I enjoy data exploration, presentation and creating cool tools that help businesses run more efficiently through data driven decision making. 
 
-  I am most skilled in: <mark>SQL</mark> and <mark>Python</mark>
+  I am most skilled in: <mark>Python</mark> <mark>R</mark> and <mark>SQL</mark>  
 
 # Projects Section
 # projects_title: Projects
