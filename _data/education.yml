@@ -1,10 +1,13 @@
 - name: Boston University
-  dates: 2018 - 2020 (Expected)
-  qualification: MS, CIS - Data Analytics
-  #quote: >
-    #Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+  dates: 2020 (Expected)
+  qualification: MS, Applied Data Analytics
   description: | # this will include new lines to allow paragraphs
-    I'm currently enrolled at BU in the MSCIS Data Analytics program. The program covers mathematics, data analysis, mining and presentation, Python programming, database design and more broad topics like computer networking, IT strategy and Information system analysis and design. It's been a great program so far and I'm excited to continue to learn.
+    I'm currently enrolled at BU in the MS in Applied Data Analytics program.
+    Utilzing a mix of Python and R the program covers:
+    -Probability and statistics 
+    -Data analysis, mining and presentation 
+    -Machine learning
+    
 
 - name: Art Institute of California - San Diego
   dates: 2008 - 2011
