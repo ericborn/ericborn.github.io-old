@@ -1,10 +1,12 @@
-- name: Texas Hold'em
+- name: LoL
   #link: github.com/ericborn
-  github: ericborn/texasholdem
+  github: ericborn/LoL
   quote: >
-    Project inspired by beer and poker.
+    Utilizing machine learning to predict the winning team in LoL
   description: | # this will include new lines to allow paragraphs
-    While I was at a brewery the world series of poker was on TV. Each time a hand was dealt or when cards were turned over, the screen showed the likelihood each of the players had in winning the hand. I figured this would be pretty easy to write and a fun project to do while learning more about object oriented programming in Python.
+    League of Legends (LoL for short), is a multiplayer online battle arena video game where two teams of five players each battle to destroy the opposite teams base.
+
+    This was a project I worked on utilizing various machine learning algorithms to predict the winning team from a dataset containing over 51K matches.
 
 - name: File Sorter
   #link: github.com/ericborn
@@ -21,4 +23,8 @@
   quote: >
     A data study on various factors that influence a patient not showing for a doctor's appointment.
   description: | # this will include new lines to allow paragraphs
-    We have a relatively high no-show rate, so I wanted to put together a data study to attempt to identify what factors a patient may have that indicate whether they will show to a doctor's appointment or not.
+   My organization had a relatively high no-show rate, 20-40% of appointments, so I wanted to put together a data study to attempt to identify factors that may indicate whether they would show to a doctor's appointment or not.
+   
+   Utilizing both SQL and R, I evaluated various factors such as age, gender, race/ethnicity, type of appointment, appointment day of the week and time and the number of days between the creation of appointment and actual appointment date. The study was performed on over 500K patients and the various factors weighted against each other for importance. 
+
+   Once these were determined, a risk model was developed and applied to all future appointment in an attempt to predict how many no-shows there would be and overbook where necessary to keep the clinics at capacity.
