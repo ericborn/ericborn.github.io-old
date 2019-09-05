@@ -15,7 +15,10 @@
     This was a fun project learning some different packages in Python which I had never used before.
   description: | # this will include new lines to allow paragraphs
     At work I was presented with a huge number of loose files that were a part of an online database export, which need to be sorted into folders according to the staff member they belong to.
+    
     I tackled the problem by writing a script in Python to read from the CSV file which contained all of the user and file data. The script created over 1000 file directories and moved 16,000+ files into the appropriate directories based upon the user they belonged to.
+    
+    Check out the project files [here](https://github.com/ericborn/showrate)
     
 - name: Show Rate
   #link: github.com/ericborn/showrate
