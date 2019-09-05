@@ -8,7 +8,7 @@
 
     This was a project I worked on utilizing six different machine learning algorithms to compare making predictions of the winning team from a dataset containing over 51K LoL matches.
     
-    Check out the project files [here](https://github.com/ericborn/LoL)
+    A full analysis of the project can be read [here.](https://github.com/ericborn/LoL)
     
 - name: File Sorter
   #link: github.com/ericborn
@@ -20,7 +20,7 @@
     
     I tackled the problem by writing a script in Python to read from the CSV file which contained all of the user and file data. The script created over 1000 file directories and moved 16,000+ files into the appropriate directories based upon the user they belonged to.
     
-    Check out the project files [here](https://github.com/ericborn/FileSort)
+    Check out the project files [here.](https://github.com/ericborn/FileSort)
     
 - name: Show Rate
   #link: github.com/ericborn/showrate
@@ -31,4 +31,5 @@
    Utilizing SQL and R, I evaluated various patient and appointment features to determine which played the largest role in a patient missing an appointment. 
    
    The study was performed on over 500K patients and then used to train a Random forest model. This model performed around 91% accuracy in predicting if a future appointment would be missed or not.
-   Check out the project files [here](https://github.com/ericborn/showrate)
+   
+   Both SQL and R files are available [here.](https://github.com/ericborn/showrate)
