@@ -7,7 +7,9 @@
     League of Legends (LoL for short), is a multiplayer online battle arena video game where two teams of five players each battle to destroy the opposite teams base.
 
     This was a project I worked on utilizing various machine learning algorithms to predict the winning team from a dataset containing over 51K matches.
-
+    
+    Check out the project files [here](https://github.com/ericborn/LoL)
+    
 - name: File Sorter
   #link: github.com/ericborn
   github: ericborn/FileSort
@@ -18,7 +20,7 @@
     
     I tackled the problem by writing a script in Python to read from the CSV file which contained all of the user and file data. The script created over 1000 file directories and moved 16,000+ files into the appropriate directories based upon the user they belonged to.
     
-    Check out the project files [here](https://github.com/ericborn/showrate)
+    Check out the project files [here](https://github.com/ericborn/FileSort)
     
 - name: Show Rate
   #link: github.com/ericborn/showrate
@@ -31,3 +33,5 @@
    Utilizing both SQL and R, I evaluated various factors such as age, gender, race/ethnicity, type of appointment, appointment day of the week, etc. The study was performed on over 500K patients and the various factors weighted against each other for importance. 
    
    Once this was completed, the top six most influential were selected and a model was developed utilizing Random Forest and applied to all future appointment in an attempt to predict how many no-shows there would. The model proved to be around 91% accurate and allowed the organization to more accurately overbook where necessary to keep the clinics at capacity and improve revenue.
+   
+   Check out the project files [here](https://github.com/ericborn/showrate)
