@@ -18,7 +18,7 @@
   description: | # this will include new lines to allow paragraphs
     I was presented with a huge number of files that were a part of an online database export, which need to be sorted into folders according to the staff member they belong to.
     
-    I tackled the problem by writing a script in Python to read from the CSV file which contained all of the user and file data. The script created over 1000 file directories and moved 16,000+ files into the appropriate directories based upon the user they belonged to.
+    I tackled the problem by writing a Python script to read from a CSV file which contained all of the user and file data. The script created over 1000 file directories and moved 16,000+ files into the appropriate directories based upon the user they belonged to.
     
     Check out the project files [here.](https://github.com/ericborn/FileSort)
     
