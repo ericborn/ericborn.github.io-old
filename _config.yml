@@ -26,7 +26,7 @@ about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Eric and I'm a data scientist. I enjoy data exploration, presentation and creating cool tools that help businesses run more efficiently through data driven decision making. 
 
-  I am most skilled in: <mark>Python</mark> <mark>R</mark> and <mark>SQL</mark>  
+  I am most skilled in: <mark>Python</mark> <mark>R</mark> <mark>Machine Learning</mark> and <mark>SQL</mark>  
 
 # Projects Section
 # projects_title: Projects
